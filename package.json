@@ -1,10 +1,14 @@
 {
-  "name": "ssestream",
-  "version": "1.0.1",
+  "name": "@tillhub/node-ssestream",
+  "version": "1.1.0",
   "description": "Send Server-Sent Events with a stream",
   "main": "index.js",
-  "repository": "git://github.com/EventSource/node-ssestream.git",
+  "repository": "git://github.com/tillhub/node-ssestream.git",
   "author": "Aslak Hellesøy",
+  "contributors": [{
+    "name": "Robert Ende",
+    "email": "robert.ende@tillhub.de"
+  }],
   "license": "MIT",
   "devDependencies": {
     "eventsource": "^1.0.5",
